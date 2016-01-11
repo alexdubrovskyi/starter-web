@@ -1,0 +1,11 @@
+What happened to my nifty Windows Command icon inside Notepad++ (Npp), is the question I have asked myself a few times before and I do not really remember how I got it back the last time I looked for it.
+
+If you are wondering about what the heck is Windows Command icon in Npp, then you must not have used it already.  It is the icon you get when you installed Npp plugin called NppExec.
+
+NppExec is a very powerful/useful plugin for Npp. It gives you Console Window (cmd.exe) functionality right inside from Notepad++.  Note that it is not an emulator of Console Window (CW) nor a command interpreter according to NppExec manual.
+
+That means all the DOS commands such as dir, xcopy, move that you would run in the CW can directly be run right from Npp.  For example, you might have used dir or tree command and redirected their output to a text file to include it in your documentation.  Well, you no longer need to do that, you could run such commands right from Npp and you could copy the output right from the Console inside Npp and paste it into any text file that you have opened in Npp.
+
+If I remember correctly, it used to be included in the Npp default install, but I no longer see it in my latest version (v5.9.8) of Npp. After looking around, I finally learned that it is a plugin and hence need to be installed if it did not already get installed with the default Npp install.
+
+To install it, you could use the Plugin Manager which is another plugin that gets included with the default install of Npp.  Under Plugins menu, go to Plugin Manager and click on “Show Plugin Manager” command to bring up the Plugin Manager dialog.
